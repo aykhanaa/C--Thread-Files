@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\C#\C#-Thread-Files\C#-Thread-Files\obj\Debug\net6.0\C#-Thread-Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#\C#-Thread-Files\C#-Thread-Files\obj\Debug\net6.0\C#-Thread-Files.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#\C#-Thread-Files\C#-Thread-Files\obj\Debug\net6.0\C#-Thread-Files.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#\C#-Thread-Files\C#-Thread-Files\obj\Debug\net6.0\C#-Thread-Files.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#\C#-Thread-Files\C#-Thread-Files\bin\Debug\net6.0\C#-Thread-Files.exe
+C:\Users\Hp\Desktop\C#\C#-Thread-Files\C#-Thread-Files\bin\Debug\net6.0\C#-Thread-Files.deps.json
+C:\Users\Hp\Desktop\C#\C#-Thread-Files\C#-Thread-Files\bin\Debug\net6.0\C#-Thread-Files.runtimeconfig.json
+C:\Users\Hp\Desktop\C#\C#-Thread-Files\C#-Thread-Files\bin\Debug\net6.0\C#-Thread-Files.dll
+C:\Users\Hp\Desktop\C#\C#-Thread-Files\C#-Thread-Files\bin\Debug\net6.0\C#-Thread-Files.pdb
+C:\Users\Hp\Desktop\C#\C#-Thread-Files\C#-Thread-Files\obj\Debug\net6.0\C#-Thread-Files.dll
+C:\Users\Hp\Desktop\C#\C#-Thread-Files\C#-Thread-Files\obj\Debug\net6.0\refint\C#-Thread-Files.dll
+C:\Users\Hp\Desktop\C#\C#-Thread-Files\C#-Thread-Files\obj\Debug\net6.0\C#-Thread-Files.pdb
+C:\Users\Hp\Desktop\C#\C#-Thread-Files\C#-Thread-Files\obj\Debug\net6.0\C#-Thread-Files.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#\C#-Thread-Files\C#-Thread-Files\obj\Debug\net6.0\ref\C#-Thread-Files.dll
